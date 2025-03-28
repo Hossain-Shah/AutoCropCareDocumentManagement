@@ -1,4 +1,4 @@
-## Document management software
+# Document management software
 
-# Technology
--Django
+## Technology
+- Django
